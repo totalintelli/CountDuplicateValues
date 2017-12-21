@@ -1,0 +1,8 @@
+E:\Projects\CountDuplicateValues\CountDuplicateValues\bin\Debug\CountDuplicateValues.exe.config
+E:\Projects\CountDuplicateValues\CountDuplicateValues\bin\Debug\CountDuplicateValues.exe
+E:\Projects\CountDuplicateValues\CountDuplicateValues\bin\Debug\CountDuplicateValues.pdb
+E:\Projects\CountDuplicateValues\CountDuplicateValues\obj\Debug\CountDuplicateValues.csprojResolveAssemblyReference.cache
+E:\Projects\CountDuplicateValues\CountDuplicateValues\obj\Debug\CountDuplicateValues.Properties.Resources.resources
+E:\Projects\CountDuplicateValues\CountDuplicateValues\obj\Debug\CountDuplicateValues.csproj.GenerateResource.Cache
+E:\Projects\CountDuplicateValues\CountDuplicateValues\obj\Debug\CountDuplicateValues.exe
+E:\Projects\CountDuplicateValues\CountDuplicateValues\obj\Debug\CountDuplicateValues.pdb
